@@ -8,6 +8,7 @@
     <i>"It was a competition that challenged mere mortals to model a 20,000x200 matrix of continuous variables using only 250 training samples… without overfitting."</i>
     
 <strong>Dataset</strong> can be download here: https://www.kaggle.com/c/dont-overfit-ii/overview 
+(You can download <b> data.rar </b> directly here)
 
 Dimension of train.csv – 250 samples and 300 features and 1 class label and 1 Id: (250,302)
 
